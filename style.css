@@ -1,0 +1,54 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+.button {
+  border-radius: 50px ;
+  height: 100px ;
+  width: 100px ;
+  font-size: 1em ;
+  border: 3px solid rgb(192, 241, 245);
+  background-color: rgb(126, 213, 228);
+  margin-top: 30px;
+}
+
+.button:hover {
+  background-color: rgb(150, 250, 250);
+}
+
+body {
+  font-family: 'Nova Round', cursive;
+  background-image: url('https://lh3.googleusercontent.com/proxy/1qVj0_RGm3GFmPHhczEZncSgCRoSA0uzOjqSS7r12t7hhHyjZAd1lqLzOlEACdqU-sBWwcxNSrImNPErItcClo5B30v73zYkWYf744kwvCIG7ok7XnKRd1Epf8ex8GEmJovwiNQPJFWWcC6ViFIx');
+  
+  background-size: cover;
+  /* background-size: 1000px; */
+
+}
+.card {
+  /* background-color: rgba(56, 56, 56, 0.425); */
+  background-color: rgba(255, 255, 255, 0.425);
+  margin-bottom: 40px;
+}
+.card-text {
+  /* color: darkcyan; */
+  color: white;
+  font-weight: bold;
+}
+h1 {
+  margin: 40px 0px 30px 0px;
+  color:white;
+  font-weight: bolder;
+}
+p{
+  margin-top: 10px;
+  font-size: 20px;
+}
+img {
+  border-radius: 8px;
+  margin:10px 20px 30px 20px;
+}
+.collapse{
+  color:black;
+}
+/** https://cdn1.vectorstock.com/i/1000x1000/30/15/blue-bubble-background-vector-3843015.jpg**/
+
