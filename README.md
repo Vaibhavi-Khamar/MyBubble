@@ -17,6 +17,8 @@ MyBubble came to life during TechTogether Boston's 2020 Hackathon with Women Who
   - Thao Pham - [linkedin](https://www.linkedin.com/in/thaopham1816/)
   - Stavon Ewart - [linkedin](https://www.linkedin.com/in/stavon-ewart/) - [github](https://github.com/StavonJoy)
 
+### Best Community Enrichment Hack - Check it out on [Devpost](https://devpost.com/software/mybubble-qipvkg)
+
 ## What We Used
 -----
 - [echoAR](https://www.echoar.xyz/)
